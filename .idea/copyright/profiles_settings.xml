@@ -1,0 +1,14 @@
+<component name="CopyrightManager">
+  <settings default="ferry">
+    <LanguageOptions name="JAVA">
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="lenBefore" value="26" />
+      <option name="lenAfter" value="26" />
+      <option name="box" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>
